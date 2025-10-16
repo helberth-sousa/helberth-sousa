@@ -3,12 +3,23 @@ Sou analista de dados/desenvolvedor estudante de Engenheria Mecatrônica com gra
 
 # Habilidades
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
+* **Linguagens de Programação:**
+    `Python` `Java` `JavaScript` `SQL` `C#` `C++`
 
-* **Linguagens de Programação:** `Python`, `Java`, `JavaScript`, `SQL`, `C#`, `C++`
-* **Análise de Dados:** `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Power BI`, `Excel`
-* **Desenvolvimento:** `React`, `Node.js`, `ASP.NET`, `Spring`, `Django`, `Flask`, `FastAPI`
-* **Bancos de Dados:** `MySQL`, `PostgreSQL`, `MongoDB`
-* **Ferramentas e Plataformas:** `Git`, `GitHub`, `Docker`, `Jupyter Notebook`, `AWS`
+* **Desenvolvimento Back-End:**
+    `Node.js` `ASP.NET` `Spring` `Django` `Flask` `FastAPI`
+
+* **Desenvolvimento Front-End:**
+    `React`
+
+* **Análise de Dados & Machine Learning:**
+    `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Power BI` `Excel`
+
+* **Bancos de Dados:**
+    `MySQL` `PostgreSQL` `MongoDB`
+
+* **Ferramentas & Plataformas:**
+    `Git` `GitHub` `Docker` `Jupyter Notebook` `AWS`
 
 <!---
 helberth-sousa/helberth-sousa is a special repository because its `README.md` (this file) appears on your GitHub profile.
