@@ -1,5 +1,5 @@
 # Sobre mim
-Sou analista de dados/programador com grande interesse na área de tecnologia. Tenho experiência em criação de APIs e Integrações, e no Tratamento e Análise de dados.
+Sou analista de dados/desenvolvedor estudante de Engenheria Mecatrônica com grande interesse na área de tecnologia. Tenho experiência em criação de APIs e Integrações, e no Tratamento e Análise de dados.
 
 # Habilidades
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
