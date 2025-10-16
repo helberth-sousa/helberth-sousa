@@ -6,7 +6,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 * **Linguagens de Programação:** `Python`, `Java`, `JavaScript`, `SQL`, `C#`, `C++`
 * **Análise de Dados:** `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Power BI`, `Excel`
-* **Desenvolvimento Web:** `React`, `Node.js`, `ASP.NET`
+* **Desenvolvimento:** `React`, `Node.js`, `ASP.NET`, `Spring`, `Django`, `Flask`, `FastAPI`
 * **Bancos de Dados:** `MySQL`, `PostgreSQL`, `MongoDB`
 * **Ferramentas e Plataformas:** `Git`, `GitHub`, `Docker`, `Jupyter Notebook`, `AWS`
 
