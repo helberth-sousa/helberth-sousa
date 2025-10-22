@@ -9,9 +9,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 * **Desenvolvimento Back-End:**
     `Node.js` `ASP.NET` `Spring` `Django` `Flask` `FastAPI`
 
-* **Desenvolvimento Front-End:**
-    `React`
-
 * **Análise de Dados & Machine Learning:**
     `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Power BI` `Excel`
 
@@ -19,7 +16,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
     `MySQL` `PostgreSQL` `MongoDB`
 
 * **Ferramentas & Plataformas:**
-    `Git` `GitHub` `Docker` `Jupyter Notebook` `AWS`
+    `Git` `GitHub` `Docker` `Jupyter Notebook`
 
 <!---
 helberth-sousa/helberth-sousa is a special repository because its `README.md` (this file) appears on your GitHub profile.
